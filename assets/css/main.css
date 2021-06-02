@@ -270,7 +270,7 @@ input, select, textarea {
 		border-bottom: solid 2px;
 		margin: 3rem 0;
 	}
-
+piratebay
 		hr.major {
 			margin: 2rem 0;
 		}
@@ -281,6 +281,8 @@ input, select, textarea {
 			height: 280px;
 			
 		}
+		/* .avatar {
+			margin: 60px auto; */
 		.avatar {
 			margin: 60px auto;
 		}
