@@ -119,11 +119,11 @@ input, select, textarea {
 		font-size: 16pt;
 	}
 
-		@media screen and (max-width: 1680px) {
+	@media screen and (max-width: 1680px) {
 
-			html {
-				font-size: 12pt;
-			}
+		html {
+			font-size: 12pt;
+		}
 
 		}
 
