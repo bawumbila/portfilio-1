@@ -25,6 +25,6 @@ GitHub
 
 ### Images
 
-![](images/portfolio1.png)
+![PORTFOLIO](images/portfolio1.png)
 
-![](images/portfolio2.png)
+![PORTFOLIO](images/portfolio2.png)
