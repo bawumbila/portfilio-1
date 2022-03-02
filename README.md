@@ -1,4 +1,4 @@
-# Portfolio website built in HTML5
+# PORTFOLIO WEBSITE.
 
 ## This was a website built to showcase my technical skills, web design skills.
 
